@@ -16,9 +16,10 @@ jobs:
       with:
         target_repo: 'Emaleth-BSE/Emaleth-BSE.github.io'
         target_folder: ''
-        user_email: 'emaleth@protonmail.com'
-        user_name: 'Emaleth-BSE'
+        user_email: '<>'
+        user_name: 'Emaleth'
         target_file_name: 'about'
-        front_matter_title: 'About'
-        front_matter_permalink: /about/
+        title: 'About'
+        permalink: /about/
+        strip_header: 'false'
 
