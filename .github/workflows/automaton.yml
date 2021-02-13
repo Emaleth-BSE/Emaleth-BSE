@@ -15,7 +15,7 @@ jobs:
         API_TOKEN_GITHUB: ${{ secrets.AUTOMATON_TOKEN }}
       with:
         target_repo: 'Emaleth/Emaleth.github.io'
-        target_folder: ''
+        target_folder: '_pages'
         target_file_name: 'about'
         title: 'About'
         permalink: /about/
