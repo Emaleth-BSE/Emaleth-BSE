@@ -19,5 +19,6 @@ jobs:
         permalink: /about/
         title: 'About'
         target_folder: '_pages'
+        layout: 'splash'
 
 
