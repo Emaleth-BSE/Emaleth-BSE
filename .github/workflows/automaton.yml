@@ -20,5 +20,6 @@ jobs:
         title: 'About'
         target_folder: '_pages'
         layout: 'splash'
+        strip_header: false
 
 
