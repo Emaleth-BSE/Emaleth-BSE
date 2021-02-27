@@ -17,7 +17,7 @@ jobs:
         target_repo: 'Emaleth/Emaleth.github.io'
         target_file_name: 'about'
         permalink: /about
-        title: '// About'
+        title: 'About'
         target_folder: '_pages'
         layout: 'page'
         strip_header: false
